@@ -58,7 +58,7 @@ page_bg_img = f"""
     h1 {{
         font-family: "Montserrat", serif;
         color: white;
-        font-size: 1.6em;
+        font-size: 1em;
         margin-left: 10px;
         }}
     body {{
