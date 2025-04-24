@@ -3,3 +3,4 @@ Pillow
 geopandas
 tableauserverclient
 st-files-connection
+gcsfs
